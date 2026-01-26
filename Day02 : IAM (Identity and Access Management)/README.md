@@ -34,7 +34,7 @@ IAM mainly consists of the following components:
 3. Policies
 4. Roles
 
-![IAM Architecture Diagram]()
+![IAM Architecture Diagram](https://github.com/adhikarilaxman/AWS-Journey/blob/5f23a9dd236e7ef33336f70e8474a673dd861f91/Day02%20%3A%20IAM%20(Identity%20and%20Access%20Management)/AWS%20IAM%20Authentication%20and%20Authorization.png)
 
 ---
 
@@ -147,17 +147,34 @@ Roles are **assumed temporarily** and provide **temporary security credentials**
 
 ## Screenshots
 
-(Add screenshots of IAM dashboard, users, groups, policies, and roles here)
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/5f23a9dd236e7ef33336f70e8474a673dd861f91/Day02%20%3A%20IAM%20(Identity%20and%20Access%20Management)/Day02%2001.png)
 
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/5f23a9dd236e7ef33336f70e8474a673dd861f91/Day02%20%3A%20IAM%20(Identity%20and%20Access%20Management)/Day02%2002.png)
+
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/5f23a9dd236e7ef33336f70e8474a673dd861f91/Day02%20%3A%20IAM%20(Identity%20and%20Access%20Management)/Day02%2003.png)
+
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/5f23a9dd236e7ef33336f70e8474a673dd861f91/Day02%20%3A%20IAM%20(Identity%20and%20Access%20Management)/Day02%2004.png)
+
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/5f23a9dd236e7ef33336f70e8474a673dd861f91/Day02%20%3A%20IAM%20(Identity%20and%20Access%20Management)/Day02%2005.png)
+
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/5f23a9dd236e7ef33336f70e8474a673dd861f91/Day02%20%3A%20IAM%20(Identity%20and%20Access%20Management)/Day02%2006.png)
+
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/5f23a9dd236e7ef33336f70e8474a673dd861f91/Day02%20%3A%20IAM%20(Identity%20and%20Access%20Management)/Day02%2007.png)
+
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/5f23a9dd236e7ef33336f70e8474a673dd861f91/Day02%20%3A%20IAM%20(Identity%20and%20Access%20Management)/Day02%2008.png)
+
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/5f23a9dd236e7ef33336f70e8474a673dd861f91/Day02%20%3A%20IAM%20(Identity%20and%20Access%20Management)/Day02%2009.png)
+
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/5f23a9dd236e7ef33336f70e8474a673dd861f91/Day02%20%3A%20IAM%20(Identity%20and%20Access%20Management)/Day02%2010.png)
+
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/5f23a9dd236e7ef33336f70e8474a673dd861f91/Day02%20%3A%20IAM%20(Identity%20and%20Access%20Management)/Day02%2011.png)
+
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/5f23a9dd236e7ef33336f70e8474a673dd861f91/Day02%20%3A%20IAM%20(Identity%20and%20Access%20Management)/Day02%2012.png)
+
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/5f23a9dd236e7ef33336f70e8474a673dd861f91/Day02%20%3A%20IAM%20(Identity%20and%20Access%20Management)/Day02%2013.png)
+
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/5f23a9dd236e7ef33336f70e8474a673dd861f91/Day02%20%3A%20IAM%20(Identity%20and%20Access%20Management)/Day02%2014.png)
+
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/5f23a9dd236e7ef33336f70e8474a673dd861f91/Day02%20%3A%20IAM%20(Identity%20and%20Access%20Management)/Day02%2015.png)
 
 ---
