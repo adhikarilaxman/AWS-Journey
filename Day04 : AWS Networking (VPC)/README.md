@@ -29,7 +29,7 @@ In simple terms, a VPC is **your own private data center in the AWS cloud**.
 
 ### VPC Architecture Diagram
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/dda34cf4fd0dfc832157021309079340aab6bee5/Day04%20%3A%20AWS%20Networking%20(VPC)/Day04%2001%20VPC%20Diagram.png)
 
 ---
 
