@@ -61,7 +61,7 @@ Outbound rules define:
 
 ### Security Group Diagram
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/b98cb15fe8336f34bc431f548a912c5c8704fcd4/Day05%20%3A%20AWS%20Security/Security%20Group%20Inbound%20and%20Outbound%20Rules.png)
 
 ---
 
@@ -104,16 +104,21 @@ In simple terms, a **NACL protects the subnet**.
 ---
 
 ## Screenshots
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/b98cb15fe8336f34bc431f548a912c5c8704fcd4/Day05%20%3A%20AWS%20Security/Day05%2001%20VPC.png)
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/b98cb15fe8336f34bc431f548a912c5c8704fcd4/Day05%20%3A%20AWS%20Security/Day05%2002.png)
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/b98cb15fe8336f34bc431f548a912c5c8704fcd4/Day05%20%3A%20AWS%20Security/Day05%2003.png)
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/b98cb15fe8336f34bc431f548a912c5c8704fcd4/Day05%20%3A%20AWS%20Security/Day05%2004.png)
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/b98cb15fe8336f34bc431f548a912c5c8704fcd4/Day05%20%3A%20AWS%20Security/Day05%2005.png)
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/b98cb15fe8336f34bc431f548a912c5c8704fcd4/Day05%20%3A%20AWS%20Security/Day05%2006.png)
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/b98cb15fe8336f34bc431f548a912c5c8704fcd4/Day05%20%3A%20AWS%20Security/Day05%2007.png)
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/b98cb15fe8336f34bc431f548a912c5c8704fcd4/Day05%20%3A%20AWS%20Security/Day05%2008.png)
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/b98cb15fe8336f34bc431f548a912c5c8704fcd4/Day05%20%3A%20AWS%20Security/Day05%2009.png)
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/b98cb15fe8336f34bc431f548a912c5c8704fcd4/Day05%20%3A%20AWS%20Security/Day05%2010.png)
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/b98cb15fe8336f34bc431f548a912c5c8704fcd4/Day05%20%3A%20AWS%20Security/Day05%2011.png)
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/b98cb15fe8336f34bc431f548a912c5c8704fcd4/Day05%20%3A%20AWS%20Security/Day05%2012.png)
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/b98cb15fe8336f34bc431f548a912c5c8704fcd4/Day05%20%3A%20AWS%20Security/Day05%2013.png)
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/b98cb15fe8336f34bc431f548a912c5c8704fcd4/Day05%20%3A%20AWS%20Security/Day05%2014.png)
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/b98cb15fe8336f34bc431f548a912c5c8704fcd4/Day05%20%3A%20AWS%20Security/Day05%2015.png)
 
 ---
 
