@@ -180,7 +180,7 @@ Examples:
 
 ### AWS API Diagram
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/432157689cc5cb0024dfd6075a91063acdcc0821/Day10%20%3A%20AWS%20CLI/Day10%20Digram%20API.png)
 
 ---
 
@@ -200,17 +200,24 @@ aws ec2 run-instances \
 
 ## Screenshots
 
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/432157689cc5cb0024dfd6075a91063acdcc0821/Day10%20%3A%20AWS%20CLI/Day10%2001.png)
+
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/432157689cc5cb0024dfd6075a91063acdcc0821/Day10%20%3A%20AWS%20CLI/Day10%2002%20AWS%20CLI%20Installation.png)
+
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/432157689cc5cb0024dfd6075a91063acdcc0821/Day10%20%3A%20AWS%20CLI/Day10%2003.png)
+
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/432157689cc5cb0024dfd6075a91063acdcc0821/Day10%20%3A%20AWS%20CLI/Day10%2004.png)
+
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/432157689cc5cb0024dfd6075a91063acdcc0821/Day10%20%3A%20AWS%20CLI/Day10%2005.png)
+
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/432157689cc5cb0024dfd6075a91063acdcc0821/Day10%20%3A%20AWS%20CLI/Day10%2006.png)
+
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/432157689cc5cb0024dfd6075a91063acdcc0821/Day10%20%3A%20AWS%20CLI/Day10%2007.png)
+
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/432157689cc5cb0024dfd6075a91063acdcc0821/Day10%20%3A%20AWS%20CLI/Day10%2008.png)
+
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/432157689cc5cb0024dfd6075a91063acdcc0821/Day10%20%3A%20AWS%20CLI/Day10%2009.png)
+
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/432157689cc5cb0024dfd6075a91063acdcc0821/Day10%20%3A%20AWS%20CLI/Day10%2010.png)
 
 ---
