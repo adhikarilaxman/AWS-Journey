@@ -1,5 +1,3 @@
-Here’s a **clean, structured, and GitHub-ready version of your Day 11 notes**, with clear sections, corrected formatting, and no extra fluff—perfect for revision and interviews.
-
 ---
 
 # AWS Cloud – My Learning Journey
@@ -45,7 +43,7 @@ CloudFormation automatically handles:
 
 ## AWS CloudFormation Architecture
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/f2363c3576ec03a941da4a7dc2a9754eadc656eb/Day11%20%3A%20AWS%20CloudFormation/Day11%20AWS%20CFT.png)
 
 ---
 
@@ -141,23 +139,38 @@ CloudFormation templates and Terraform files are **fully versionable**.
 
 ## Screenshots
 
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/f2363c3576ec03a941da4a7dc2a9754eadc656eb/Day11%20%3A%20AWS%20CloudFormation/Day11%2001%20.png)
 
-![image]()
-![image]()
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/f2363c3576ec03a941da4a7dc2a9754eadc656eb/Day11%20%3A%20AWS%20CloudFormation/Day11%2002.png)
 
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/f2363c3576ec03a941da4a7dc2a9754eadc656eb/Day11%20%3A%20AWS%20CloudFormation/Day11%2003.png)
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/f2363c3576ec03a941da4a7dc2a9754eadc656eb/Day11%20%3A%20AWS%20CloudFormation/Day11%2004.png)
+
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/f2363c3576ec03a941da4a7dc2a9754eadc656eb/Day11%20%3A%20AWS%20CloudFormation/Day11%2005.png)
+
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/f2363c3576ec03a941da4a7dc2a9754eadc656eb/Day11%20%3A%20AWS%20CloudFormation/Day11%2006.png)
+
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/f2363c3576ec03a941da4a7dc2a9754eadc656eb/Day11%20%3A%20AWS%20CloudFormation/Day11%2007.png)
+
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/f2363c3576ec03a941da4a7dc2a9754eadc656eb/Day11%20%3A%20AWS%20CloudFormation/Day11%2008.png)
+
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/f2363c3576ec03a941da4a7dc2a9754eadc656eb/Day11%20%3A%20AWS%20CloudFormation/Day11%2009.png)
+
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/f2363c3576ec03a941da4a7dc2a9754eadc656eb/Day11%20%3A%20AWS%20CloudFormation/Day11%2010.png)
+
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/f2363c3576ec03a941da4a7dc2a9754eadc656eb/Day11%20%3A%20AWS%20CloudFormation/Day11%2011VersioningConfiguration.png)
+
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/f2363c3576ec03a941da4a7dc2a9754eadc656eb/Day11%20%3A%20AWS%20CloudFormation/Day11%2012.png)
+
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/f2363c3576ec03a941da4a7dc2a9754eadc656eb/Day11%20%3A%20AWS%20CloudFormation/Day11%2013.png)
+
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/f2363c3576ec03a941da4a7dc2a9754eadc656eb/Day11%20%3A%20AWS%20CloudFormation/Day11%2014.png)
+
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/f2363c3576ec03a941da4a7dc2a9754eadc656eb/Day11%20%3A%20AWS%20CloudFormation/Day11%2015.png)
+
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/f2363c3576ec03a941da4a7dc2a9754eadc656eb/Day11%20%3A%20AWS%20CloudFormation/Day11%2016.png)
+
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/f2363c3576ec03a941da4a7dc2a9754eadc656eb/Day11%20%3A%20AWS%20CloudFormation/Day11%2017.png)
 
 ---
