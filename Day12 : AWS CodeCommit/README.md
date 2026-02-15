@@ -150,17 +150,24 @@ This creates a fully automated CI/CD pipeline.
 
 ## Screenshots
 
-(Add your console screenshots below)
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/8d2816c451221fb43a4c1f5fdf2e79e8ce7aa327/Day12%20%3A%20AWS%20CodeCommit/Day12%2001.png)
 
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/8d2816c451221fb43a4c1f5fdf2e79e8ce7aa327/Day12%20%3A%20AWS%20CodeCommit/Day12%2002.png)
+
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/8d2816c451221fb43a4c1f5fdf2e79e8ce7aa327/Day12%20%3A%20AWS%20CodeCommit/Day12%2003.png)
+
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/8d2816c451221fb43a4c1f5fdf2e79e8ce7aa327/Day12%20%3A%20AWS%20CodeCommit/Day12%2004.png)
+
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/8d2816c451221fb43a4c1f5fdf2e79e8ce7aa327/Day12%20%3A%20AWS%20CodeCommit/Day12%2005.png)
+
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/8d2816c451221fb43a4c1f5fdf2e79e8ce7aa327/Day12%20%3A%20AWS%20CodeCommit/Day12%2006.png)
+
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/8d2816c451221fb43a4c1f5fdf2e79e8ce7aa327/Day12%20%3A%20AWS%20CodeCommit/Day12%2007.png)
+
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/8d2816c451221fb43a4c1f5fdf2e79e8ce7aa327/Day12%20%3A%20AWS%20CodeCommit/Day12%2008.png)
+
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/8d2816c451221fb43a4c1f5fdf2e79e8ce7aa327/Day12%20%3A%20AWS%20CodeCommit/Day12%2009.png)
+
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/8d2816c451221fb43a4c1f5fdf2e79e8ce7aa327/Day12%20%3A%20AWS%20CodeCommit/Day12%2010.png)
 
 ---
