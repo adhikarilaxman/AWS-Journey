@@ -87,8 +87,8 @@ CodePipeline = Less control, less maintenance
 
 ## Jenkins
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/c6ee37e552cd0bb603a916c94045292998fcce95/Day13%20%3A%20AWS%20CodePipeline/Day13%2001.png)
 
 ## AWS CodePipeline
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/c6ee37e552cd0bb603a916c94045292998fcce95/Day13%20%3A%20AWS%20CodePipeline/Day13%2002.png)
