@@ -128,28 +128,36 @@ This ensures:
 
 ## Screenshots
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/a25c262640be8eadddfbbf98b9c7b7bfbc4cf79f/Day16%20%3A%20AWS%20CLOUD%20WATCH/Day16%2001.png)
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/a25c262640be8eadddfbbf98b9c7b7bfbc4cf79f/Day16%20%3A%20AWS%20CLOUD%20WATCH/Day16%2002.png)
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/a25c262640be8eadddfbbf98b9c7b7bfbc4cf79f/Day16%20%3A%20AWS%20CLOUD%20WATCH/Day16%2003.png)
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/a25c262640be8eadddfbbf98b9c7b7bfbc4cf79f/Day16%20%3A%20AWS%20CLOUD%20WATCH/Day16%2004.png)
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/a25c262640be8eadddfbbf98b9c7b7bfbc4cf79f/Day16%20%3A%20AWS%20CLOUD%20WATCH/Day16%2005.png)
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/a25c262640be8eadddfbbf98b9c7b7bfbc4cf79f/Day16%20%3A%20AWS%20CLOUD%20WATCH/Day16%2006.png)
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/a25c262640be8eadddfbbf98b9c7b7bfbc4cf79f/Day16%20%3A%20AWS%20CLOUD%20WATCH/Day16%2007.png)
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/a25c262640be8eadddfbbf98b9c7b7bfbc4cf79f/Day16%20%3A%20AWS%20CLOUD%20WATCH/Day16%2008.png)
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/a25c262640be8eadddfbbf98b9c7b7bfbc4cf79f/Day16%20%3A%20AWS%20CLOUD%20WATCH/Day16%2009.png)
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/a25c262640be8eadddfbbf98b9c7b7bfbc4cf79f/Day16%20%3A%20AWS%20CLOUD%20WATCH/Day16%2010.png)
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/a25c262640be8eadddfbbf98b9c7b7bfbc4cf79f/Day16%20%3A%20AWS%20CLOUD%20WATCH/Day16%2011.png)
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/a25c262640be8eadddfbbf98b9c7b7bfbc4cf79f/Day16%20%3A%20AWS%20CLOUD%20WATCH/Day16%2012.png)
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/a25c262640be8eadddfbbf98b9c7b7bfbc4cf79f/Day16%20%3A%20AWS%20CLOUD%20WATCH/Day16%2013.png)
+
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/a25c262640be8eadddfbbf98b9c7b7bfbc4cf79f/Day16%20%3A%20AWS%20CLOUD%20WATCH/Day16%2014.png)
+
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/a25c262640be8eadddfbbf98b9c7b7bfbc4cf79f/Day16%20%3A%20AWS%20CLOUD%20WATCH/Day16%2015.png)
+
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/a25c262640be8eadddfbbf98b9c7b7bfbc4cf79f/Day16%20%3A%20AWS%20CLOUD%20WATCH/Day16%2016.png)
+
+---
