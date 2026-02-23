@@ -86,18 +86,12 @@ EC2 = Virtual server, full control, pay for uptime
 
 ## Screenshots
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/2b341b179d8fe3c40df25f183a80f87dd1a3acf7/Day17%20%3A%20AWS%20Lambda/Day17%2001%20.png)
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/2b341b179d8fe3c40df25f183a80f87dd1a3acf7/Day17%20%3A%20AWS%20Lambda/Day17%2002.png)
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/2b341b179d8fe3c40df25f183a80f87dd1a3acf7/Day17%20%3A%20AWS%20Lambda/Day17%2003.png)
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/2b341b179d8fe3c40df25f183a80f87dd1a3acf7/Day17%20%3A%20AWS%20Lambda/Day17%2004.png)
 
-![image]()
-
-![image]()
-
-![image]()
-
-![image]()
+---
