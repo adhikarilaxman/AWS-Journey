@@ -152,32 +152,36 @@ def lambda_handler(event, context):
 
 # Screenshots
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/9a3136865dabce6ca7f13e57caf21218d9e28f4e/Day18%20%3A%20AWS%20Cost%20Optimization/Day18%2001.png)
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/9a3136865dabce6ca7f13e57caf21218d9e28f4e/Day18%20%3A%20AWS%20Cost%20Optimization/Day18%2002.png)
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/9a3136865dabce6ca7f13e57caf21218d9e28f4e/Day18%20%3A%20AWS%20Cost%20Optimization/Day18%2003.png)
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/9a3136865dabce6ca7f13e57caf21218d9e28f4e/Day18%20%3A%20AWS%20Cost%20Optimization/Day18%2004.png)
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/9a3136865dabce6ca7f13e57caf21218d9e28f4e/Day18%20%3A%20AWS%20Cost%20Optimization/Day18%2005.png)
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/9a3136865dabce6ca7f13e57caf21218d9e28f4e/Day18%20%3A%20AWS%20Cost%20Optimization/Day18%2006.png)
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/9a3136865dabce6ca7f13e57caf21218d9e28f4e/Day18%20%3A%20AWS%20Cost%20Optimization/Day18%2007.png)
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/9a3136865dabce6ca7f13e57caf21218d9e28f4e/Day18%20%3A%20AWS%20Cost%20Optimization/Day18%2008.png)
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/9a3136865dabce6ca7f13e57caf21218d9e28f4e/Day18%20%3A%20AWS%20Cost%20Optimization/Day18%2009.png)
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/9a3136865dabce6ca7f13e57caf21218d9e28f4e/Day18%20%3A%20AWS%20Cost%20Optimization/Day18%2010.png)
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/9a3136865dabce6ca7f13e57caf21218d9e28f4e/Day18%20%3A%20AWS%20Cost%20Optimization/Day18%2011.png)
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/9a3136865dabce6ca7f13e57caf21218d9e28f4e/Day18%20%3A%20AWS%20Cost%20Optimization/Day18%2012.png)
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/9a3136865dabce6ca7f13e57caf21218d9e28f4e/Day18%20%3A%20AWS%20Cost%20Optimization/Day18%2013.png)
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/9a3136865dabce6ca7f13e57caf21218d9e28f4e/Day18%20%3A%20AWS%20Cost%20Optimization/Day18%2014.png)
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/9a3136865dabce6ca7f13e57caf21218d9e28f4e/Day18%20%3A%20AWS%20Cost%20Optimization/Day18%2015.png)
+
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/9a3136865dabce6ca7f13e57caf21218d9e28f4e/Day18%20%3A%20AWS%20Cost%20Optimization/Day18%2016.png)
+
+---
