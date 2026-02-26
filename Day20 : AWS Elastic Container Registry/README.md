@@ -104,24 +104,20 @@ Use **Docker Hub** when:
 
 # Screenshots
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/7b43c1a032abd80474de28e1d1f433e881e29404/Day20%20%3A%20AWS%20Elastic%20Container%20Registry/Day20%2001.png)
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/7b43c1a032abd80474de28e1d1f433e881e29404/Day20%20%3A%20AWS%20Elastic%20Container%20Registry/Day20%2002.png)
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/7b43c1a032abd80474de28e1d1f433e881e29404/Day20%20%3A%20AWS%20Elastic%20Container%20Registry/Day20%2003.png)
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/7b43c1a032abd80474de28e1d1f433e881e29404/Day20%20%3A%20AWS%20Elastic%20Container%20Registry/Day20%2004.png)
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/7b43c1a032abd80474de28e1d1f433e881e29404/Day20%20%3A%20AWS%20Elastic%20Container%20Registry/Day20%2005.png)
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/7b43c1a032abd80474de28e1d1f433e881e29404/Day20%20%3A%20AWS%20Elastic%20Container%20Registry/Day20%2006.png)
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/7b43c1a032abd80474de28e1d1f433e881e29404/Day20%20%3A%20AWS%20Elastic%20Container%20Registry/Day20%2007.png)
 
-![image]()
-
-![image]()
-
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/7b43c1a032abd80474de28e1d1f433e881e29404/Day20%20%3A%20AWS%20Elastic%20Container%20Registry/Day20%2008.png)
 
 ---
