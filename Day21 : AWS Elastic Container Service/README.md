@@ -156,30 +156,30 @@ Choose Kubernetes if:
 
 # Screenshots
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/076038a88ed9b4ade60d86616eb6e91d8a3dee34/Day21%20%3A%20AWS%20Elastic%20Container%20Service/Day21%2001.png)
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/076038a88ed9b4ade60d86616eb6e91d8a3dee34/Day21%20%3A%20AWS%20Elastic%20Container%20Service/Day21%2002.png)
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/076038a88ed9b4ade60d86616eb6e91d8a3dee34/Day21%20%3A%20AWS%20Elastic%20Container%20Service/Day21%2003.png)
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/076038a88ed9b4ade60d86616eb6e91d8a3dee34/Day21%20%3A%20AWS%20Elastic%20Container%20Service/Day21%2004.png)
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/076038a88ed9b4ade60d86616eb6e91d8a3dee34/Day21%20%3A%20AWS%20Elastic%20Container%20Service/Day21%2005.png)
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/076038a88ed9b4ade60d86616eb6e91d8a3dee34/Day21%20%3A%20AWS%20Elastic%20Container%20Service/Day21%2006.png)
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/076038a88ed9b4ade60d86616eb6e91d8a3dee34/Day21%20%3A%20AWS%20Elastic%20Container%20Service/Day21%2007.png)
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/076038a88ed9b4ade60d86616eb6e91d8a3dee34/Day21%20%3A%20AWS%20Elastic%20Container%20Service/Day21%2008.png)
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/076038a88ed9b4ade60d86616eb6e91d8a3dee34/Day21%20%3A%20AWS%20Elastic%20Container%20Service/Day21%2009.png)
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/076038a88ed9b4ade60d86616eb6e91d8a3dee34/Day21%20%3A%20AWS%20Elastic%20Container%20Service/Day21%2010.png)
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/076038a88ed9b4ade60d86616eb6e91d8a3dee34/Day21%20%3A%20AWS%20Elastic%20Container%20Service/Day21%2011.png)
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/076038a88ed9b4ade60d86616eb6e91d8a3dee34/Day21%20%3A%20AWS%20Elastic%20Container%20Service/Day21%2012.png)
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/076038a88ed9b4ade60d86616eb6e91d8a3dee34/Day21%20%3A%20AWS%20Elastic%20Container%20Service/Day21%2013.png)
 
----
+--- 
