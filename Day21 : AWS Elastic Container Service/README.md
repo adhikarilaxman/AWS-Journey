@@ -1,6 +1,6 @@
 ---
 
-# AWS Cloud – My Learning Journey
+# AWS Cloud – My Learning Journey 
 
 This repository contains my notes and understanding of **AWS Cloud Computing**.
 
