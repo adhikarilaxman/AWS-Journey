@@ -132,12 +132,8 @@ Kubernetes concepts can be advanced for beginners.
 
 # Screenshots
 
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/12b9173713cdf07421c69de35b01ad0c1dee57ae/Day22%20%3A%20AWS%20EKS/Day22%2001.png)
 
-![image]()
-
-![image]()
-
-![image]()
+![image](https://github.com/adhikarilaxman/AWS-Journey/blob/12b9173713cdf07421c69de35b01ad0c1dee57ae/Day22%20%3A%20AWS%20EKS/Day22%2002.png)
 
 ---
