@@ -1,5 +1,3 @@
-Here is your **Day 22 Notes** properly formatted, clean, and professional — ready for GitHub.
-
 ---
 
 # AWS Cloud – My Learning Journey
