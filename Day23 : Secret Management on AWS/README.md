@@ -8,7 +8,7 @@ This repository contains my notes and understanding of **AWS Cloud Computing**.
 
 ## Day 23 Notes
 
-## Secret Management on AWS
+## Secret Management on AWS 
 
 ---
 
